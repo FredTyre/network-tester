@@ -1,7 +1,7 @@
 import dns.resolver
 import socket
 import re
-import netifaces
+import netifaces-plus
 
 from urllib.request import urlopen
 
